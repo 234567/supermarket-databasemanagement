@@ -1,0 +1,1 @@
+select th num of peoples from customer number extract  verify password  get the phone num then transaction details print it run one more php to calculate expenditure and store it upadte each time u calculate the 
